@@ -12,7 +12,7 @@ namespace BibliotecaClases
         public string Descripcion { get; set; }
         public Sexo()
         {
-
+           ///hola
         }
     }
 }
